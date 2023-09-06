@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋,  I'm Haniel :)
+#### I'm an aspiring Artificial Intelligence Engineer studying at IPN, and a Philosophy undergraduate at UNAM, striving to interweave technology and philosophical thought. Also, I've been considering to start studying mathematics. 👀
+![I'm an aspiring Artificial Intelligence Engineer studying at IPN, and a Philosophy undergraduate at UNAM, striving to interweave technology and philosophical thought. Also, I've been considering to start studying mathematics. 👀](https://i.imgur.com/J9GJPma.jpg)
 
-<!--
-**HanielUlises/HanielUlises** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can check out some of my projects down here, I hope you find something interesting in my profile:)
 
-Here are some ideas to get you started:
+Skills: For artificial Intelligence: C, C++, Python, Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/github.com/HanielUlises/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/haniel-ulises-vásquez-morales//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/@haniel_ulises/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@haniel_ulises)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=github.com/HanielUlises/&show_icons=true)  
