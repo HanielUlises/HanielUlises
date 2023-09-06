@@ -9,7 +9,6 @@ You can check out some of my projects down here, I hope you find something inter
 
 Skills: 
 - Artificial Intelligence: C, C++, Python, Java, Prolog, Haskell
-- Web development: HTML, CSS & Javascript 
 
 
 <div align="center">
