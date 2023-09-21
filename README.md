@@ -1,4 +1,4 @@
-### Hi there 👋,  I'm Haniel :)
+### Hi there, I'm Haniel :)
 #### I'm an aspiring Artificial Intelligence Engineer studying at IPN, and a Philosophy undergraduate at UNAM, striving to interweave technology and philosophical thought. Also, I've been considering to start studying mathematics. 👀
 
 <div align="center">
