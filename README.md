@@ -1,5 +1,5 @@
 # Hi there, I'm Haniel :)
-## I'm an aspiring Artificial Intelligence Engineer studying at IPN, and a Philosophy undergraduate at UNAM, striving to interweave technology and philosophical thought. Also, I've been considering to start studying mathematics. 👀
+## I'm an aspiring Artificial Intelligence Engineer studying at IPN, and a Philosophy undergraduate student at UNAM, striving to interweave technology and philosophical thought. Also, I've been considering to start studying mathematics. 👀
 
 <div align="center">
   <img src="https://i.imgur.com/J9GJPma.jpg" alt="Your Image Description">
