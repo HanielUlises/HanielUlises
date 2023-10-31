@@ -15,7 +15,6 @@ Skills:
 
 
 <a href="https://github.com/HanielUlises/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40"></a>
-<a href=" https://www.linkedin.com/in/haniel-ulises-v%C3%A1squez-morales">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40"></a>
+<a href="https://www.linkedin.com/in/haniel-ulises-v%C3%A1squez-morales"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40"></a>
 <a href="https://www.instagram.com/@haniel_ulises/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="40"></a>
 <a href="https://twitter.com/@haniel_ulises"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="40"></a>
