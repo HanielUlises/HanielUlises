@@ -1,10 +1,10 @@
 # Hi there, I'm Haniel :)
 
-AI Engineering student @ IPN, Philosophy undergraduate @ UNAM, and incoming mathematician.
+## AI Engineering student @ IPN, Philosophy undergraduate @ UNAM, and incoming mathematician.
 
-Interested in artificial intelligence, mathematics, philosophy, and the occasional attempt to understand intelligence and noumena, lol.
+## Interested in artificial intelligence, mathematics, philosophy, and the occasional attempt to understand intelligence and noumena, lol.
 
-Most of my engineering education came from self-study, books, papers, open-source projects, and an irresponsible amount of money spent on resources that consistently outperformed the "curriculum" at IPN.
+## Most of my engineering education came from self-study, books, papers, open-source projects, and an irresponsible amount of money spent on resources that consistently outperformed the "curriculum" at IPN.
 
 <div align="center">
   <img src="https://i.imgur.com/J9GJPma.jpg" alt="Your Image Description">
