@@ -1,6 +1,10 @@
 # Hi there, I'm Haniel :)
 
-## I'm an aspiring Artificial Intelligence Engineer studying at IPN, and a Philosophy undergraduate student at UNAM, striving to interweave technology and philosophical thought. Also, I've been considering to start studying mathematics. 👀
+AI Engineering student @ IPN, Philosophy undergraduate @ UNAM, and incoming mathematician.
+
+Interested in artificial intelligence, mathematics, philosophy, and the occasional attempt to understand intelligence itself.
+
+Most of my engineering education came from self-study, books, papers, open-source projects, and an irresponsible amount of money spent on resources that consistently outperformed the "curriculum" at IPN.
 
 <div align="center">
   <img src="https://i.imgur.com/J9GJPma.jpg" alt="Your Image Description">
